@@ -14,3 +14,7 @@ Sample website with plenty of files for demos
 ## Contribution
 
 Please fork this repo and then issue Pull Requests for review.
+
+## Copyright
+
+2014 Git Training. All Rights Reserved.
