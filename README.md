@@ -8,3 +8,8 @@ Simple Website
 Sample website with plenty of files for demos
 
 ## Deployment
+
+
+## Contribution
+
+Please fork this repo and then issue Pull Requests for review.
