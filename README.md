@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work. 
 Simple Website.
-Adding line for rebasing example, then more changes from myfeature branch too.
+Updating line for emergency fixing after stashing.
 
 ## Purpose
 
